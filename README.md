@@ -28,7 +28,11 @@ Command3: ./internsctl.sh user list --sudo-only <br/>
 <br/>
 Section B - Part 3 (Advanced Level):<br/>
 Command1: ./internsctl file getinfo hello.txt<br/>
-Command2: ./internsctl file getinfo --size hello.txt<br/>
+Command2: ./internsctl file getinfo --size hello.txt
+Command3: ./internsctl file getinfo --permissions hello.txt
+Command4: ./internsctl file getinfo --owner hello.txt
+Command5: ./internsctl file getinfo --last-modified hello.txt
+
 <img width="960" alt="Screenshot 2024-01-10 132133" src="https://github.com/AbhinavTomar15/xenon_stack_Tasks/assets/104672177/ae9f3a6c-1bfb-45db-891a-2a20e236725f">
 
 
